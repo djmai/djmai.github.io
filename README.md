@@ -1,48 +1,62 @@
-# Astro Starter Kit: Basics
+# Portafolio | MMMV
 
-```sh
-npm create astro@latest -- --template basics
-```
+<img width="300px" align="right" alt="logo_mmmv" src="https://mmartinezdev.com/wp-content/uploads/2023/05/cropped-Red-M-Letter-Mosaic-Logo-Template-2-100x62.png">
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+## Descripción
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Este es un proyecto creado en Astro para mostrar mi Portafolio Personal de proyectos desarrollados alojados en GitHub
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+#### MTIE. Miguel Manuel Martínez Vázquez
 
-## 🚀 Project Structure
+[![Versión](https://img.shields.io/badge/Versión-1.3.0-blue.svg)](https://github.com/djmai/WebAPIAutores-Net-Core/releases/tag/v1.3.0) ![GitHub User's stars](https://img.shields.io/github/stars/djmai)
 
-Inside of your Astro project, you'll see the following folders and files:
+[![donate](https://www.paypalobjects.com/es_ES/i/btn/btn_donate_SM.gif)](https://paypal.me/IngMiguelMartinez?locale.x=es_XC) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/7trr5f)
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCs-r-rohe5U2qoxI-m0QZIg) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCs-r-rohe5U2qoxI-m0QZIg)
 
 ## 🧞 Commands
 
-All commands are run from the root of the project, from a terminal:
+Puedes realizar la clonación del proyecto para realizar tu propio portafolio personal, con los siguientes comandos
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+### Pasos de Instalación
 
-## 👀 Want to learn more?
+1. Clona el repositorio.
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+    ```bash
+      git clone https://github.com/djmai/djmai.github.io
+    ```
+
+2. Instalación de dependencias.
+
+    ```bash
+      npm install
+    ```
+
+3. Ejecutar proyecto
+
+    ```bash
+      npm run dev
+    ```
+
+### Autores ✒️
+
+_Nuestros colaboradores hasta el momento_
+
+- **MTIE. Miguel Martinez** - [Sitio Web](https://mmartinezdev.com) - [GitHub](https://github.com/djmai) - [Facebook](https://fb.com/mmmv8) - [Linkedin](https://linkedin.com/in/mmartinezdev)
+
+### Gratitud 🎁
+
+Muchas gracias por acceder y poder ver lo que es parte de mi trabajo, y no te olvides de:
+
+- Comentar a otros sobre este proyecto 📢
+- Invitar una cerveza 🍺 o un café ☕ a alguien del equipo.
+- Dar las gracias públicamente 🤓.
+
+---
+
+⌨️ con ❤️ por [MTIE. Miguel Martinez](https://github.com/djmai) 😊
+
+### MTIE. Miguel Manuel Martínez Vázquez
+
+[![donate](https://www.paypalobjects.com/es_ES/i/btn/btn_donate_SM.gif)](https://paypal.me/IngMiguelMartinez?locale.x=es_XC)  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/7trr5f)  
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCs-r-rohe5U2qoxI-m0QZIg) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCs-r-rohe5U2qoxI-m0QZIg)
